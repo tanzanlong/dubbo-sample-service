@@ -13,6 +13,7 @@
         <module>dubbo-account-service-impl</module>
         <module>dubbo-order-service-api</module>
          <module>dubbo-order-service-impl</module>
+          <module>dubbo-tech</module>
     </modules>
 
     <properties>
